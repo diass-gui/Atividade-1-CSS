@@ -1,2 +1,2 @@
-# Atividade-1-CSS
-Repositório para a Atividade 1 de CSS - PI
+# tipos-de-css
+Exercício sobre os tipos de CSS: inline, embutido e externo.
